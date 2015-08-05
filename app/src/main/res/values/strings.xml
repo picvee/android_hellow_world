@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mandatory_field">Required field</string>
+    <string name="optional_field">Optional</string>
+    <string name="first_btn">Yayy!!!</string>
+    <string name="title_activity_display_input">Second Activity</string>
+</resources>
